@@ -6,7 +6,7 @@ $(window).load( function(){
 	var y = e.pageY;
 	
 	$('#image').css('margin-left', x)
-	$('#image').css('margin-left', x)
+	$('#image').css('margin-top', y)
 	
 	});
 	
